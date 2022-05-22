@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @samdz555
-- 👀 I’m interested in web development
 - 🌱 I’m currently working on WebDevops
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me email: sameerdhotre777@gmail.com
