@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samdz555
 - 🌱 I’m currently working on WebDevops
-- 💞️ I’m looking to collaborate on projects 
 
 <!---
 samdz555/samdz555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
