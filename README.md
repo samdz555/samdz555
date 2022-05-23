@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samdz555
+- 👋 Hi, I’m Sameer
 - 🌱 I’m currently working on WebDevops
 
 <!---
