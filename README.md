@@ -3,11 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-18657810&psig=AOvVaw0yx8OUsGOKb6io-MFIoiyt&ust=1702304196306000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCNiRwMGHhYMDFQAAAAAdAAAAABAE">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdz555&label=Profile%20views&color=0e75b6&style=flat" alt="samdz555" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samdz555" alt="samdz555" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/samdz555" target="blank"><img src="https://img.shields.io/twitter/follow/samdz555?logo=twitter&style=for-the-badge" alt="samdz555" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,React.js,Security Tools,python**
 
@@ -19,7 +16,7 @@
 
 - 📫 How to reach me **sameerdhotre777@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/lzm75r](https://rb.gy/lzm75r)
+- 📄 My Resume [https://rb.gy/lzm75r](https://rb.gy/lzm75r)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
