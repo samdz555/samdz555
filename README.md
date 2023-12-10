@@ -1,5 +1,6 @@
 ![Header](https://github.com/samdz555/samdz555/blob/main/github-header-image.png)
 
+<h1 align="center">At the end of the day goals are simple - "Safety and Security"</h1>
 <h3 align="center">Cyber Security Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdz555&label=Profile%20views&color=0e75b6&style=flat" alt="samdz555" /> </p>
