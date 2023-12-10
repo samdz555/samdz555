@@ -1,3 +1,5 @@
+![Header](https://github.com/samdz555/samdz555/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Sameer Dhotre</h1>
 <h3 align="center">Cyber Security Analyst from India</h3>
 
